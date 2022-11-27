@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Mario game é um jogo que utiliza o personagem Mario, criado pela Nintendo e muito famoso no mundo dos games. Neste jogo é possível saltar os conhecidos encamentos verdes, que no jogo original o Mario os utiliza para se deslocar de uma área para outra, entretanto, neste jogo se você colide neste obstáculo o jogo é finalizado.
+O Mario game é um jogo que utiliza o personagem Mario, criado pela Nintendo e muito famoso no mundo dos games. Neste jogo, é possível saltar os conhecidos encamentos verdes, que, no jogo original, o Mario os utiliza para se deslocar de uma área para outra, entretanto, no jogo, se você colide neste obstáculo, o jogo é finalizado.
 
 ## 🔖 Layout
 
